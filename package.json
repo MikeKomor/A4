@@ -1,0 +1,24 @@
+{
+  "name": "a4express",
+  "version": "1.0.0",
+  "description": "A4",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeKomor/A4.git"
+  },
+  "author": "Mike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikeKomor/A4/issues"
+  },
+  "homepage": "https://github.com/MikeKomor/A4#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.4"
+  }
+}
